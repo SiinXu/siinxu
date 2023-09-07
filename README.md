@@ -12,8 +12,8 @@
 - 🧩 At the same time, I am also a **Sudoku enthusiast.**
 - 👨‍💻  I am currently exploring the limitless possibilities of <a href="https://incidental.site/" target="*">AI technology.</a>
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siinxu&theme=radical&hide_border=true"/>
+<p align="right">
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siinxu&theme=radical&hide_border=true"/>
 </p>
 </div>
 
