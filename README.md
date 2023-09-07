@@ -59,7 +59,7 @@
   </a>
 
   <a href="https://github.com/siinxu/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siinxu&layout=compact&theme=radical&langs_count=6" />
+    <img width="440" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=siinxu&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
