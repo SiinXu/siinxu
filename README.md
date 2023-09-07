@@ -1,3 +1,19 @@
+<a href="https://discord.gg/cs2YtzV5Hg"><img src="https://cdn.jsdelivr.net/gh/SinXu/Siin-Notion@main/img/de8813b47364c1ac4c00267ef94a8bc5.gif" width="100%" height="auto"/></a>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Inevitable-AI"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/AI_Inevitable"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/cs2YtzV5Hg" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/siinxu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/inevitableai"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/inevitableAI"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
+<br/>
 
 <h1 align="center">Hello 👋, I'm Siin Xu 🪼🤖</h1>
 <h3 align="center">I am passionate about the field of artificial intelligence. I believe that AI technology will bring endless possibilities and change the way we live and work. Currently, I am learning and exploring the limitless potential of AI technology, hoping to make my own contribution in this field.</h3>
