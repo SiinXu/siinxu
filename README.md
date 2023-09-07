@@ -9,7 +9,7 @@
 - 🔍 My MBTI type is **ENTP-A.**
 - 📖 I enjoy **reading and exploring new things.**
 - 🧩 At the same time, I am also a **Sudoku enthusiast.**
-- 👨‍💻  I am currently exploring the limitless possibilities of <a href="https://incidental.site/" target="blank">**AI technology.**</a>
+- 👨‍💻  I am currently exploring the limitless possibilities of <a href="https://incidental.site/" target="**AI technology.**"></a>
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siinxu&theme=radical&hide_border=true"/>
