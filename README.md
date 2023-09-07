@@ -33,6 +33,19 @@
 </p>
 </div>
 
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **About My Product!!! 🤝** ️
+
+We have launched the Incidental AI project, offering the following resources and services:
+
+- <a href="https://www.talkyy.fun/">Talkyy</a>, a generative dialogue tool to make your AI applications more customized. 🗣️🤖💬
+- <a href="https://www.inevitableai.ltd/">Inevitable AI</a>, an AI resource with learning guides, reports, research, and more to help you understand the development and application of AI technology. 📚💻🔍
+- <a href="https://ainav.asia/">AI Compass</a>, which provides you with the latest AI websites, tools, and resources. 🌍🔍🤖
+- <a href="https://incidental.site/">Incidental AI</a>, a one-stop solution for AI. 💡💭👥
+- <a href="https://www.inevitableai.tech/">Any Answer yet?</a>, which helps you complete your daily work and tasks more efficiently. 🛠️👨‍💻💼
+
+Thank you for your interest in Inevitable AI. We will do our best to provide you with better services and quality content.👥🚀
+
+
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <p align="center">
