@@ -3,7 +3,7 @@
 <h3 align="center">I am passionate about the field of artificial intelligence. I believe that AI technology will bring endless possibilities and change the way we live and work. Currently, I am learning and exploring the limitless potential of AI technology, hoping to make my own contribution in this field.</h3>
 
 <div style="display:flex">
-<img align="right" alt="coding_img" width="380" src="https://cdn.jsdelivr.net/gh/SinXu/Siin-Notion@main/img/dd9a89bd33bea475e6978f0a9068a1d3.gif">
+<img align="right" alt="coding_img" width="280" src="https://cdn.jsdelivr.net/gh/SinXu/Siin-Notion@main/img/dd9a89bd33bea475e6978f0a9068a1d3.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
