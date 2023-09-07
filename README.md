@@ -53,7 +53,7 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-    <img width="430" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siinxu&theme=rogue">
+    <img width="100%" height="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siinxu&theme=rogue">
   <a href="https://github.com/siinxu">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=siinxu&show_icons=true&theme=radical&count_private=true">
   </a>
