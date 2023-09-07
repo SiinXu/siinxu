@@ -15,7 +15,7 @@
 </p>
 <br/>
 
-<h1 align="center">Hello 👋, I'm Siin Xu 🪼🤖</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Siin Xu 🪼🤖</h1>
 <h3 align="center">I am passionate about the field of artificial intelligence. I believe that AI technology will bring endless possibilities and change the way we live and work. Currently, I am learning and exploring the limitless potential of AI technology, hoping to make my own contribution in this field.</h3>
 
 <div style="display:flex">
@@ -26,7 +26,7 @@
 - 🔍 My MBTI type is **ENTP-A.**
 - 📖 I enjoy **reading and exploring new things.**
 - 🧩 At the same time, I am also a **Sudoku enthusiast.**
-- 👨‍💻  I am currently exploring the limitless possibilities of <a href="https://incidental.site/" target="*">AI technology.</a>
+- 👨‍💻  I am currently exploring the limitless possibilities of <a href="https://incidental.site/" target="">**AI**.</a>
 
 <p align="left">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siinxu&theme=radical&hide_border=true"/>
