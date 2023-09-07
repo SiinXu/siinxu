@@ -34,8 +34,7 @@
 </p>
 </div>
 
-## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **About My Product!!! 🤝** ️
-
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> **About My Product!!! 🤝**
 We have launched the Incidental AI project, offering the following resources and services:
 - <a href="https://incidental.site/">Incidental AI</a>, a one-stop solution for AI. 💡💭👥
 - <a href="https://www.inevitableai.ltd/">Inevitable AI</a>, an AI resource with learning guides, reports, research, and more to help you understand the development and application of AI technology. 📚💻🔍
