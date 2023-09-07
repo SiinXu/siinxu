@@ -56,7 +56,7 @@
     <img width="100%" height="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siinxu&theme=rogue">
 
   <a href="https://github.com/siinxu">
-   <img width="45%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=siinxu&show_icons=true&theme=radical&count_private=true">
+   <img width="50%" height="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=siinxu&show_icons=true&theme=radical&count_private=true">
   </a>
 
   <a href="https://github.com/siinxu/github-readme-stats">
